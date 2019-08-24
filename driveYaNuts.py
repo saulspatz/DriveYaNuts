@@ -20,7 +20,7 @@ and one for each edge lying on two of the outer 6 nuts.
 '''
 
 constraints[1] = [(4,0,1)]
-constraints[2] = [(5,02),(6,1,3)]
+constraints[2] = [(5,0,2),(6,1,3)]
 constraints[3] = [(6,0,3),(1,2,4)]
 constraints[4] = [(1,0,4), (2,3,5)]
 constraints[5] = [(2,0,5),(1,6,4)]
